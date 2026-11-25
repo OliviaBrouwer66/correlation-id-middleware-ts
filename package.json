@@ -1,6 +1,6 @@
 {
   "name": "correlation-id-middleware-ts",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Node.js HTTP middleware that reads or generates a correlation ID per request.",
   "type": "module",
   "main": "src/index.js",
